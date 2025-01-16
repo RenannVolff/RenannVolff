@@ -16,8 +16,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Astah_Logo.svg" alt="Astah">
 </div>
 
-# Renann Felipe Volff - Bem-vindo ao meu GitHub! / Welcome to my GitHub! 🎉
-
 ## Sobre mim / About Me
 
 ### Em Português:
