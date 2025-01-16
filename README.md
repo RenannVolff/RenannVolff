@@ -5,17 +5,6 @@
     <h1>Renann Felipe Volff - Bem-vindo ao meu GitHub! / Welcome to my GitHub! 🎉</h1>
 </header>
 
-<div class="language-icons">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/JavaScript-logo.png" alt="JavaScript">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language_logo.svg" alt="C++">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/MongoDB_Logo.svg" alt="MongoDB">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/MySQL_Logo_2013.svg" alt="MySQL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Unity_2023_logo.svg" alt="Unity">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Blender_logo_no_text.svg" alt="Blender">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Astah_Logo.svg" alt="Astah">
-</div>
-
 ## Sobre mim / About Me
 
 ### Em Português:
